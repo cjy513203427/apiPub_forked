@@ -1,7 +1,7 @@
 Class apiPub.wizard.api Extends apiPub.core.jsonBuilder [ ProcedureBlock ]
 {
 
-/// publish new APIs based on templates
+/// publish new APIs based on templates1
 /// @apiPub[tag="new"]
 /// @apiPub[response.outputType="text/plain"]
 /// @apiPub[path="/new/publishApi"]
